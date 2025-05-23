@@ -1,4 +1,4 @@
-# VMD-MFRFNN
+# VMD-MFRFNN(PSO)
 
 ## Introduction
 
